@@ -1,0 +1,16 @@
+{
+  "name": "2803node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "MarcinDl <marcindl@hotmail.com> (http://www.softlab.mem)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.0"
+  }
+}
